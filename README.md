@@ -8,3 +8,5 @@ Do the Question in given order:
 2.Range Minimum Query
 
 3.GCd in Given Range (GCD)
+
+4.Lazy Propagation Implementation
