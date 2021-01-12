@@ -10,3 +10,7 @@ Do the Question in given order:
 3.GCd in Given Range (GCD)
 
 4.Lazy Propagation Implementation
+
+5.Maximum Sum Subarray in Range (GSS1) -> Spoj
+
+6.Number of EvenOdd in Range (HelpAshu) -> HackerEarth
