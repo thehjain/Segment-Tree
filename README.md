@@ -14,3 +14,5 @@ Do the Question in given order:
 5.Maximum Sum Subarray in Range (GSS1) -> Spoj
 
 6.Number of EvenOdd in Range (HelpAshu) -> HackerEarth
+
+7.MultipleOf3 (MulitpleOf3) -> CodeChef
